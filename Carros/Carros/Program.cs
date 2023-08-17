@@ -1,5 +1,5 @@
 ﻿/*
-04 - Crie uma classe Carro com os atributos modelo, ano, preco e disponivel. Crie uma lista de carros e preencha-a com algumas instâncias da classe Carro. Em seguida, crie um método que itera sobre a lista e imprime o modelo e o preço de todos os carros disponíveis cujo preço é inferior a 50.000.
+03 - Crie uma classe Carro com os atributos modelo, ano, preco e disponivel. Crie uma lista de carros e preencha-a com algumas instâncias da classe Carro. Em seguida, crie um método que itera sobre a lista e imprime o modelo e o preço de todos os carros disponíveis cujo preço é inferior a 50.000.
 */
 
 using Carros;

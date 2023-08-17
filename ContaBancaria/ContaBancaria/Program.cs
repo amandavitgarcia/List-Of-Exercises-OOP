@@ -1,5 +1,5 @@
 ﻿/*
-03 - Crie uma classe ContaBancaria com os atributos numero, saldo, titular e limite. Crie uma lista de contas bancárias e preencha-a com algumas instâncias da classe ContaBancaria. Em seguida, crie um método que itera sobre a lista e imprime o número e o saldo de todas as contas cujo saldo é superior a 10.000 e cujo titular é uma pessoa física (ou seja, o nome do titular não contém "S/A" ou "LTDA").
+02 - Crie uma classe ContaBancaria com os atributos numero, saldo, titular e limite. Crie uma lista de contas bancárias e preencha-a com algumas instâncias da classe ContaBancaria. Em seguida, crie um método que itera sobre a lista e imprime o número e o saldo de todas as contas cujo saldo é superior a 10.000 e cujo titular é uma pessoa física (ou seja, o nome do titular não contém "S/A" ou "LTDA").
 */
 using ContaBancariaEx;
 

@@ -1,5 +1,5 @@
 ﻿/*
-06 - Crie uma classe Produto com os atributos nome, preco e quantidade. Crie uma lista de produtos e preencha-a com algumas instâncias da classe Produto. Em seguida, crie um método que itera sobre a lista e imprime o nome e o preço de todos os produtos que estão com desconto de 10%. Se a quantidade do produto for inferior a 10 unidades, dê um desconto adicional de 5%.
+05 - Crie uma classe Produto com os atributos nome, preco e quantidade. Crie uma lista de produtos e preencha-a com algumas instâncias da classe Produto. Em seguida, crie um método que itera sobre a lista e imprime o nome e o preço de todos os produtos que estão com desconto de 10%. Se a quantidade do produto for inferior a 10 unidades, dê um desconto adicional de 5%.
 */
 
 using MiniMercadinho;

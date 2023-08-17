@@ -1,5 +1,5 @@
 ﻿/*
-05 - Crie uma classe Agenda com os atributos contatos e compromissos. O atributo contatos deve ser uma lista de objetos Contato, que devem ter os atributos nome e telefone. O atributo compromissos deve ser uma lista de objetos Compromisso, que devem ter os atributos data, horario e descricao. Crie uma lista de agendas e preencha-a com algumas instâncias da classe Agenda. Em seguida, crie um método que itera sobre a lista e imprime o nome de todos os contatos que possuem pelo menos um compromisso marcado para o mês atual (ou seja, o mês atual deve ser inferiror ou igual ao mês do compromisso). 
+04 - Crie uma classe Agenda com os atributos contatos e compromissos. O atributo contatos deve ser uma lista de objetos Contato, que devem ter os atributos nome e telefone. O atributo compromissos deve ser uma lista de objetos Compromisso, que devem ter os atributos data, horario e descricao. Crie uma lista de agendas e preencha-a com algumas instâncias da classe Agenda. Em seguida, crie um método que itera sobre a lista e imprime o nome de todos os contatos que possuem pelo menos um compromisso marcado para o mês atual (ou seja, o mês atual deve ser inferiror ou igual ao mês do compromisso). 
 */
 
 using AgendaContatos;

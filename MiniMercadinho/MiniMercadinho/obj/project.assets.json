@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Amanda\\Ex POO C#\\MiniMercadinho\\MiniMercadinho\\MiniMercadinho.csproj",
+      "projectUniqueName": "C:\\Users\\jhou1\\Music\\ListOfExercisesOop\\List-Of-Exercises-OOP\\MiniMercadinho\\MiniMercadinho\\MiniMercadinho.csproj",
       "projectName": "MiniMercadinho",
-      "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Amanda\\Ex POO C#\\MiniMercadinho\\MiniMercadinho\\MiniMercadinho.csproj",
+      "projectPath": "C:\\Users\\jhou1\\Music\\ListOfExercisesOop\\List-Of-Exercises-OOP\\MiniMercadinho\\MiniMercadinho\\MiniMercadinho.csproj",
       "packagesPath": "C:\\Users\\jhou1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Amanda\\Ex POO C#\\MiniMercadinho\\MiniMercadinho\\obj\\",
+      "outputPath": "C:\\Users\\jhou1\\Music\\ListOfExercisesOop\\List-Of-Exercises-OOP\\MiniMercadinho\\MiniMercadinho\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jhou1\\AppData\\Roaming\\NuGet\\NuGet.Config",

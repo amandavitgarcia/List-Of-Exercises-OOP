@@ -1,5 +1,5 @@
 ﻿/*
-02 - Escreva um programa orientado a objetos com as seguintes características:
+01 - Escreva um programa orientado a objetos com as seguintes características:
 
 Uma classe Pessoa, com atributos nome e idade, e métodos Cumprimentar e DizerIdade;
 Uma classe Aluno derivada da classe Pessoa, com um método IrParaEscola;

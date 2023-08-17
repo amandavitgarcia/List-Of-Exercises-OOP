@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Amanda\\Ex POO C#\\ContaBancaria\\ContaBancaria\\ContaBancariaEx.csproj",
+      "projectUniqueName": "C:\\Users\\jhou1\\Music\\ListOfExercisesOop\\List-Of-Exercises-OOP\\ContaBancaria\\ContaBancaria\\ContaBancariaEx.csproj",
       "projectName": "ContaBancariaEx",
-      "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Amanda\\Ex POO C#\\ContaBancaria\\ContaBancaria\\ContaBancariaEx.csproj",
+      "projectPath": "C:\\Users\\jhou1\\Music\\ListOfExercisesOop\\List-Of-Exercises-OOP\\ContaBancaria\\ContaBancaria\\ContaBancariaEx.csproj",
       "packagesPath": "C:\\Users\\jhou1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Amanda\\Ex POO C#\\ContaBancaria\\ContaBancaria\\obj\\",
+      "outputPath": "C:\\Users\\jhou1\\Music\\ListOfExercisesOop\\List-Of-Exercises-OOP\\ContaBancaria\\ContaBancaria\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jhou1\\AppData\\Roaming\\NuGet\\NuGet.Config",

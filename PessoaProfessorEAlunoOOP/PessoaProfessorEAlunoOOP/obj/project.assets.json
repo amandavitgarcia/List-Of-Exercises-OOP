@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Amanda\\Ex POO C#\\PessoaProfessorEAlunoOOP\\PessoaProfessorEAlunoOOP\\PessoaProfessorEAlunoOOP.csproj",
+      "projectUniqueName": "C:\\Users\\jhou1\\Music\\ListOfExercisesOop\\List-Of-Exercises-OOP\\PessoaProfessorEAlunoOOP\\PessoaProfessorEAlunoOOP\\PessoaProfessorEAlunoOOP.csproj",
       "projectName": "PessoaProfessorEAlunoOOP",
-      "projectPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Amanda\\Ex POO C#\\PessoaProfessorEAlunoOOP\\PessoaProfessorEAlunoOOP\\PessoaProfessorEAlunoOOP.csproj",
+      "projectPath": "C:\\Users\\jhou1\\Music\\ListOfExercisesOop\\List-Of-Exercises-OOP\\PessoaProfessorEAlunoOOP\\PessoaProfessorEAlunoOOP\\PessoaProfessorEAlunoOOP.csproj",
       "packagesPath": "C:\\Users\\jhou1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhou1\\OneDrive\\Área de Trabalho\\Amanda\\Ex POO C#\\PessoaProfessorEAlunoOOP\\PessoaProfessorEAlunoOOP\\obj\\",
+      "outputPath": "C:\\Users\\jhou1\\Music\\ListOfExercisesOop\\List-Of-Exercises-OOP\\PessoaProfessorEAlunoOOP\\PessoaProfessorEAlunoOOP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jhou1\\AppData\\Roaming\\NuGet\\NuGet.Config",
