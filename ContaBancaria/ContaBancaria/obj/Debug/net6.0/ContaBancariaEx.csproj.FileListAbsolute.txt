@@ -1,0 +1,15 @@
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\ContaBancaria\ContaBancaria\bin\Debug\net6.0\ContaBancariaEx.exe
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\ContaBancaria\ContaBancaria\bin\Debug\net6.0\ContaBancariaEx.deps.json
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\ContaBancaria\ContaBancaria\bin\Debug\net6.0\ContaBancariaEx.runtimeconfig.json
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\ContaBancaria\ContaBancaria\bin\Debug\net6.0\ContaBancariaEx.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\ContaBancaria\ContaBancaria\bin\Debug\net6.0\ref\ContaBancariaEx.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\ContaBancaria\ContaBancaria\bin\Debug\net6.0\ContaBancariaEx.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\ContaBancaria\ContaBancaria\obj\Debug\net6.0\ContaBancariaEx.csproj.AssemblyReference.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\ContaBancaria\ContaBancaria\obj\Debug\net6.0\ContaBancariaEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\ContaBancaria\ContaBancaria\obj\Debug\net6.0\ContaBancariaEx.AssemblyInfoInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\ContaBancaria\ContaBancaria\obj\Debug\net6.0\ContaBancariaEx.AssemblyInfo.cs
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\ContaBancaria\ContaBancaria\obj\Debug\net6.0\ContaBancariaEx.csproj.CoreCompileInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\ContaBancaria\ContaBancaria\obj\Debug\net6.0\ContaBancariaEx.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\ContaBancaria\ContaBancaria\obj\Debug\net6.0\ref\ContaBancariaEx.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\ContaBancaria\ContaBancaria\obj\Debug\net6.0\ContaBancariaEx.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\ContaBancaria\ContaBancaria\obj\Debug\net6.0\ContaBancariaEx.genruntimeconfig.cache

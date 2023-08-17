@@ -1,0 +1,15 @@
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\MiniMercadinho\MiniMercadinho\bin\Debug\net6.0\MiniMercadinho.exe
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\MiniMercadinho\MiniMercadinho\bin\Debug\net6.0\MiniMercadinho.deps.json
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\MiniMercadinho\MiniMercadinho\bin\Debug\net6.0\MiniMercadinho.runtimeconfig.json
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\MiniMercadinho\MiniMercadinho\bin\Debug\net6.0\MiniMercadinho.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\MiniMercadinho\MiniMercadinho\bin\Debug\net6.0\ref\MiniMercadinho.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\MiniMercadinho\MiniMercadinho\bin\Debug\net6.0\MiniMercadinho.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\MiniMercadinho\MiniMercadinho\obj\Debug\net6.0\MiniMercadinho.csproj.AssemblyReference.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\MiniMercadinho\MiniMercadinho\obj\Debug\net6.0\MiniMercadinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\MiniMercadinho\MiniMercadinho\obj\Debug\net6.0\MiniMercadinho.AssemblyInfoInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\MiniMercadinho\MiniMercadinho\obj\Debug\net6.0\MiniMercadinho.AssemblyInfo.cs
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\MiniMercadinho\MiniMercadinho\obj\Debug\net6.0\MiniMercadinho.csproj.CoreCompileInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\MiniMercadinho\MiniMercadinho\obj\Debug\net6.0\MiniMercadinho.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\MiniMercadinho\MiniMercadinho\obj\Debug\net6.0\ref\MiniMercadinho.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\MiniMercadinho\MiniMercadinho\obj\Debug\net6.0\MiniMercadinho.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\MiniMercadinho\MiniMercadinho\obj\Debug\net6.0\MiniMercadinho.genruntimeconfig.cache

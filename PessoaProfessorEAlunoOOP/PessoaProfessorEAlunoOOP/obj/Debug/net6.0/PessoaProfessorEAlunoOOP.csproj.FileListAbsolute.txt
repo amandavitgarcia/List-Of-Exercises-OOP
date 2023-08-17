@@ -1,0 +1,15 @@
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\PessoaProfessorEAlunoOOP\PessoaProfessorEAlunoOOP\obj\Debug\net6.0\PessoaProfessorEAlunoOOP.csproj.AssemblyReference.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\PessoaProfessorEAlunoOOP\PessoaProfessorEAlunoOOP\obj\Debug\net6.0\PessoaProfessorEAlunoOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\PessoaProfessorEAlunoOOP\PessoaProfessorEAlunoOOP\obj\Debug\net6.0\PessoaProfessorEAlunoOOP.AssemblyInfoInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\PessoaProfessorEAlunoOOP\PessoaProfessorEAlunoOOP\obj\Debug\net6.0\PessoaProfessorEAlunoOOP.AssemblyInfo.cs
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\PessoaProfessorEAlunoOOP\PessoaProfessorEAlunoOOP\obj\Debug\net6.0\PessoaProfessorEAlunoOOP.csproj.CoreCompileInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\PessoaProfessorEAlunoOOP\PessoaProfessorEAlunoOOP\bin\Debug\net6.0\PessoaProfessorEAlunoOOP.exe
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\PessoaProfessorEAlunoOOP\PessoaProfessorEAlunoOOP\bin\Debug\net6.0\PessoaProfessorEAlunoOOP.deps.json
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\PessoaProfessorEAlunoOOP\PessoaProfessorEAlunoOOP\bin\Debug\net6.0\PessoaProfessorEAlunoOOP.runtimeconfig.json
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\PessoaProfessorEAlunoOOP\PessoaProfessorEAlunoOOP\bin\Debug\net6.0\PessoaProfessorEAlunoOOP.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\PessoaProfessorEAlunoOOP\PessoaProfessorEAlunoOOP\bin\Debug\net6.0\ref\PessoaProfessorEAlunoOOP.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\PessoaProfessorEAlunoOOP\PessoaProfessorEAlunoOOP\bin\Debug\net6.0\PessoaProfessorEAlunoOOP.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\PessoaProfessorEAlunoOOP\PessoaProfessorEAlunoOOP\obj\Debug\net6.0\PessoaProfessorEAlunoOOP.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\PessoaProfessorEAlunoOOP\PessoaProfessorEAlunoOOP\obj\Debug\net6.0\ref\PessoaProfessorEAlunoOOP.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\PessoaProfessorEAlunoOOP\PessoaProfessorEAlunoOOP\obj\Debug\net6.0\PessoaProfessorEAlunoOOP.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\PessoaProfessorEAlunoOOP\PessoaProfessorEAlunoOOP\obj\Debug\net6.0\PessoaProfessorEAlunoOOP.genruntimeconfig.cache

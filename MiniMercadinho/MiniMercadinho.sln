@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMercadinho", "MiniMercadinho\MiniMercadinho.csproj", "{C34C8712-FCFA-439F-9EF8-64BF6134EE08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C34C8712-FCFA-439F-9EF8-64BF6134EE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C34C8712-FCFA-439F-9EF8-64BF6134EE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C34C8712-FCFA-439F-9EF8-64BF6134EE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C34C8712-FCFA-439F-9EF8-64BF6134EE08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB710F97-EB04-4ED1-AA26-4CCBF937182E}
+	EndGlobalSection
+EndGlobal

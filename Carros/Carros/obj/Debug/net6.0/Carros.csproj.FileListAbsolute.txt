@@ -1,0 +1,15 @@
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\Carros\Carros\bin\Debug\net6.0\Carros.exe
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\Carros\Carros\bin\Debug\net6.0\Carros.deps.json
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\Carros\Carros\bin\Debug\net6.0\Carros.runtimeconfig.json
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\Carros\Carros\bin\Debug\net6.0\Carros.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\Carros\Carros\bin\Debug\net6.0\ref\Carros.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\Carros\Carros\bin\Debug\net6.0\Carros.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\Carros\Carros\obj\Debug\net6.0\Carros.csproj.AssemblyReference.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\Carros\Carros\obj\Debug\net6.0\Carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\Carros\Carros\obj\Debug\net6.0\Carros.AssemblyInfoInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\Carros\Carros\obj\Debug\net6.0\Carros.AssemblyInfo.cs
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\Carros\Carros\obj\Debug\net6.0\Carros.csproj.CoreCompileInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\Carros\Carros\obj\Debug\net6.0\Carros.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\Carros\Carros\obj\Debug\net6.0\ref\Carros.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\Carros\Carros\obj\Debug\net6.0\Carros.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\Carros\Carros\obj\Debug\net6.0\Carros.genruntimeconfig.cache
